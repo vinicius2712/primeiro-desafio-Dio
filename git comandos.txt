@@ -1,0 +1,27 @@
+comandos git
+
+sera um livro de receitas
+
+ctrl L = limpa tudo
+git init = inicializa e o git gerencia e versona nosso codigo, cria o repositorio dentro do diretorio
+ls= lista as pastas
+.git = pasta gerencial do git 
+ls -a= mostra os arquivos/repositorios ocultos
+git status= monitora o status do arquivo
+git add * = adiciona tudo que foi modificado
+git add NomeArquivo= adiciona oque foi modificado apenas naquele arquivo
+git config --list = lista todas as configuraçoes, incluindo email e usuario
+git config --global --unset user.email = para remover
+git config --global --unset user.name = para remover
+git config --global user.name "nome" = para adicionar o nome nome
+git config --global user.email "email" = adicionar novo email
+git push = empurrar
+git pull = puxar
+
+git remote add origin (link do repositorio do git) = para apontar no git bash pra onde serão feitos os commit
+
+criar uma conta no git 
+viniormundo@gmail.com
+vinicius2712
+
+** RESOLVENDO CONFLITOS NO GIT **
